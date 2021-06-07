@@ -3,9 +3,9 @@ A Tip Calculator that takes input from the user in the form of Bill amount, Tip%
 
 ## Functionalities:
 • The application provides option for the user to specify:<br />
------Bill amount <br />
------Tip percentage <br />
------Number of people <br />
+------Bill amount <br />
+------Tip percentage <br />
+------Number of people <br />
   <br />
 • Based on the above inputs the application displays: <br />
 ------Tip amount to be paid per person <br />
